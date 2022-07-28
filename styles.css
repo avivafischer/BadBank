@@ -1,0 +1,21 @@
+body {
+    background-image: url(./images/bank.jpg);
+    background-size: cover;
+}
+
+table th, table td {
+    color: white;
+}
+
+.card-header, .navbar-brand {
+    font-family: 'Anton', sans-serif;
+    font-size: x-large;
+}
+
+.nav-link {
+    font-weight: bold;
+}
+
+.img-fluid {
+    border-radius: 20%;
+}
